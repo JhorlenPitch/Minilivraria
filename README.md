@@ -9,7 +9,7 @@ Baixe o WAMPESERVER ou utilize outro servidor de sua preferencia, como XAMPP ou 
 #### 2. Instalação do WAMPESERVER<br/>
 Após instalar o WAMPESERVER, acesse _C:/wamp64/www/_.<br/>
 Clone este repositório dentro da pasta www:<br/>
-_git clone https://github.com/seu-usuario/minilivraria.git<br/>_
+_git clone https://github.com/JhorlenPitch/Minilivraria.git<br/>_
 
 #### 3. Iniciar o Servidor<br/>
 Inicie o WAMPESERVER e aguarde o ícone no canto inferior direito ficar verde 🟢.<br/>
