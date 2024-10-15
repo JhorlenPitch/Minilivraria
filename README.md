@@ -23,7 +23,7 @@ Usuário: root<br/>
 Senha: (deixe em branco)<br/>
 
 ##### Crie um novo banco de dados chamado:<br/>
-_CREATE DATABASE minilivraria;<br/>_
+_CREATE DATABASE minilivraria;<br/><br/>_
 Selecione o banco criado, vá para SQL e cole o [Script Sql](https://docs.google.com/document/d/1G7yLGBYf2eEt22k0FWbv9nC9ykV4LW41qo__cWe_Bng/edit?tab=t.0) necessário aqui para criar as tabelas e cadastrar livros automaticamente.<br/>
 
 #### 5. Executando o Projeto<br/>
