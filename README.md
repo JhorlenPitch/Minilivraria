@@ -7,7 +7,7 @@ Certifique-se de que tem um servidor local instalado, como o WAMPESERVER (Iremos
 Baixe o WAMPESERVER ou utilize outro servidor de sua preferencia, como XAMPP ou LAMP.<br/>
 
 #### 2. Instalação do WAMPESERVER<br/>
-Após instalar o WAMPESERVER, acesse C:/wamp64/www/.<br/>
+Após instalar o WAMPESERVER, acesse _C:/wamp64/www/_.<br/>
 Clone este repositório dentro da pasta www:<br/>
 _git clone https://github.com/seu-usuario/minilivraria.git<br/>_
 
