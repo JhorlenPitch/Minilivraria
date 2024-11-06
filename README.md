@@ -6,15 +6,18 @@
 Certifique-se de que tem um servidor local instalado, como o WAMPESERVER (Iremos usar) [Baixe aqui](https://sourceforge.net/projects/wampserver/).<br/>
 Baixe o WAMPESERVER ou utilize outro servidor de sua preferencia, como XAMPP ou LAMP.<br/>
 
-#### 2. Instalação do WAMPESERVER<br/>
+#### 2. Dependências Servidor
+Faça o download das depedências do servidor para que funcione corretamente, instale conforme solicitado: [Acesse aqui](https://drive.google.com/drive/folders/1kw4rZrMhr9xOGi0XtXxuRJJVMFsKR94e?hl=pt-BR)
+
+#### 3. Instalação do WAMPESERVER<br/>
 Após instalar o WAMPESERVER, acesse _C:/wamp64/www/_.<br/>
 Clone este repositório dentro da pasta www:<br/>
 _git clone https://github.com/JhorlenPitch/Minilivraria.git<br/>_
 
-#### 3. Iniciar o Servidor<br/>
+#### 4. Iniciar o Servidor<br/>
 Inicie o WAMPESERVER e aguarde o ícone no canto inferior direito ficar verde 🟢.<br/>
 
-#### 4. Configuração do Banco de Dados<br/>
+#### 5. Configuração do Banco de Dados<br/>
 Acesse o PhpMyAdmin (ícone do WAMPESERVER > PhpMyAdmin > PhpMyAdmin x.x.x).<br/>
 
 ##### No primeiro acesso, use:<br/>
@@ -26,7 +29,7 @@ Senha: (deixe em branco)<br/>
 _CREATE DATABASE minilivraria;<br/><br/>_
 Selecione o banco criado, vá para SQL e cole o [Script Sql](https://docs.google.com/document/d/1G7yLGBYf2eEt22k0FWbv9nC9ykV4LW41qo__cWe_Bng/edit?tab=t.0) necessário aqui para criar as tabelas e cadastrar livros automaticamente.<br/>
 
-#### 5. Executando o Projeto<br/>
+#### 6. Executando o Projeto<br/>
 Abra o navegador e acesse: _http://localhost/minilivraria.<br/>_
 #### 🛠️ Funcionalidades<br/>
 ##### 📦 Calcular frete: Informe seu endereço para obter o valor do frete.<br/>
