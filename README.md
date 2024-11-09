@@ -7,7 +7,7 @@ Certifique-se de que tem um servidor local instalado, como o WAMPESERVER (Iremos
 Baixe o WAMPESERVER ou utilize outro servidor de sua preferencia, como XAMPP ou LAMP.<br/>
 
 #### 2. Dependências Servidor
-Faça o download das depedências do servidor para que funcione corretamente, instale conforme solicitado: [Acesse aqui](https://drive.google.com/drive/folders/1kw4rZrMhr9xOGi0XtXxuRJJVMFsKR94e?hl=pt-BR).
+Faça o download das depedências do servidor para que funcione corretamente, instale conforme solicitado: [Acesse aqui](https://www.mediafire.com/file/kvydbdtsk1gjqlz/all_vc_redist_x86_x64.zip/file).
 
 #### 3. Instalação do WAMPESERVER<br/>
 Após instalar o WAMPESERVER, acesse _C:/wamp64/www/_.<br/>
