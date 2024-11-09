@@ -30,7 +30,7 @@ _CREATE DATABASE minilivraria;<br/><br/>_
 Selecione o banco criado, vá para SQL e cole o [Script Sql](https://docs.google.com/document/d/1G7yLGBYf2eEt22k0FWbv9nC9ykV4LW41qo__cWe_Bng/edit?tab=t.0) necessário aqui para criar as tabelas e cadastrar livros automaticamente.<br/>
 
 #### 6. Executando o Projeto<br/>
-Abra o navegador e acesse: _http://localhost/minilivraria.<br/>_
+Abra o navegador e acesse: _http://localhost/minilivraria-main.<br/>_
 #### 🛠️ Funcionalidades<br/>
 ##### 📦 Calcular frete: Informe seu endereço para obter o valor do frete.<br/>
 ##### 🛒 Finalizar compra: Adicione livros ao carrinho e conclua a compra com frete calculado.<br/>
